@@ -1,0 +1,216 @@
+2021-12-29 15:13:46,192 - octoprint.startup - INFO - ******************************************************************************
+2021-12-29 15:13:46,210 - octoprint.startup - INFO - Starting OctoPrint 1.7.2
+2021-12-29 15:13:46,212 - octoprint.startup - INFO - ******************************************************************************
+2021-12-29 15:13:49,149 - octoprint.util.connectivity.connectivity_checker - INFO - Connectivity state is currently: online
+2021-12-29 15:13:49,154 - octoprint.util.connectivity.connectivity_checker - INFO - Connecting to 1.1.1.1:53 is working
+2021-12-29 15:13:49,155 - octoprint.util.connectivity.connectivity_checker - INFO - Resolving octoprint.org is working
+2021-12-29 15:13:49,305 - octoprint.plugin.core - INFO - Loading plugins from /usr/local/lib/python3.8/site-packages/octoprint/plugins, /home/thaison/.octoprint/plugins and installed plugin packages...
+2021-12-29 15:13:49,320 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/action_command_notification/__init__.py
+2021-12-29 15:13:49,353 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/action_command_prompt/__init__.py
+2021-12-29 15:13:49,399 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/announcements/__init__.py
+2021-12-29 15:13:51,386 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/appkeys/__init__.py
+2021-12-29 15:13:51,456 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/backup/__init__.py
+2021-12-29 15:13:51,721 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/corewizard/__init__.py
+2021-12-29 15:13:51,761 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/discovery/__init__.py
+2021-12-29 15:13:52,424 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/errortracking/__init__.py
+2021-12-29 15:13:52,472 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/eventmanager/__init__.py
+2021-12-29 15:13:52,499 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/gcodeviewer/__init__.py
+2021-12-29 15:13:52,526 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/logging/__init__.py
+2021-12-29 15:13:52,579 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/pluginmanager/__init__.py
+2021-12-29 15:13:53,018 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/softwareupdate/__init__.py
+2021-12-29 15:13:53,353 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/tracking/__init__.py
+2021-12-29 15:13:53,430 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint/plugins/virtual_printer/__init__.py
+2021-12-29 15:13:53,902 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint_pi_support/__init__.py
+2021-12-29 15:13:53,962 - octoprint.plugin.core - INFO - Plugin Pi Support Plugin (2021.10.28) did not pass check, not loading.
+2021-12-29 15:13:53,987 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint_firmware_check/__init__.py
+2021-12-29 15:13:54,082 - octoprint.plugin.core - DEBUG - Parsing plugin metadata from AST of /usr/local/lib/python3.8/site-packages/octoprint_file_check/__init__.py
+2021-12-29 15:13:54,146 - octoprint.plugin.core - DEBUG - Loaded plugin action_command_notification: Action Command Notification Support
+2021-12-29 15:13:54,148 - octoprint.plugin.core - DEBUG - Loaded plugin action_command_prompt: Action Command Prompt Support
+2021-12-29 15:13:54,148 - octoprint.plugin.core - DEBUG - Loaded plugin announcements: Announcement Plugin
+2021-12-29 15:13:54,149 - octoprint.plugin.core - DEBUG - Loaded plugin appkeys: Application Keys Plugin
+2021-12-29 15:13:54,151 - octoprint.plugin.core - DEBUG - Loaded plugin backup: Backup & Restore
+2021-12-29 15:13:54,152 - octoprint.plugin.core - DEBUG - Loaded plugin corewizard: Core Wizard
+2021-12-29 15:13:54,213 - octoprint.plugin.core - DEBUG - Loaded plugin discovery: Discovery
+2021-12-29 15:13:54,215 - octoprint.plugin.core - DEBUG - Loaded plugin errortracking: Error Tracking
+2021-12-29 15:13:54,215 - octoprint.plugin.core - DEBUG - Loaded plugin eventmanager: Event Manager
+2021-12-29 15:13:54,216 - octoprint.plugin.core - DEBUG - Loaded plugin gcodeviewer: GCode Viewer
+2021-12-29 15:13:54,217 - octoprint.plugin.core - DEBUG - Loaded plugin logging: Logging
+2021-12-29 15:13:54,218 - octoprint.plugin.core - DEBUG - Loaded plugin pluginmanager: Plugin Manager
+2021-12-29 15:13:54,219 - octoprint.plugin.core - DEBUG - Loaded plugin softwareupdate: Software Update
+2021-12-29 15:13:54,220 - octoprint.plugin.core - DEBUG - Loaded plugin tracking: Anonymous Usage Tracking
+2021-12-29 15:13:54,221 - octoprint.plugin.core - DEBUG - Loaded plugin virtual_printer: Virtual Printer
+2021-12-29 15:13:54,222 - octoprint.plugin.core - DEBUG - Loaded plugin firmware_check: Firmware Check (2021.10.11)
+2021-12-29 15:13:54,223 - octoprint.plugin.core - DEBUG - Loaded plugin file_check: File Check (2021.2.23)
+2021-12-29 15:13:54,312 - octoprint.plugin.core - DEBUG - Enabled plugin action_command_notification: Action Command Notification Support
+2021-12-29 15:13:54,326 - octoprint.plugin.core - DEBUG - Enabled plugin action_command_prompt: Action Command Prompt Support
+2021-12-29 15:13:54,360 - octoprint.plugin.core - DEBUG - Enabled plugin announcements: Announcement Plugin
+2021-12-29 15:13:54,372 - octoprint.plugin.core - DEBUG - Enabled plugin appkeys: Application Keys Plugin
+2021-12-29 15:13:54,408 - octoprint.plugin.core - DEBUG - Enabled plugin backup: Backup & Restore
+2021-12-29 15:13:54,444 - octoprint.plugin.core - DEBUG - Enabled plugin corewizard: Core Wizard
+2021-12-29 15:13:54,458 - octoprint.plugin.core - DEBUG - Enabled plugin discovery: Discovery
+2021-12-29 15:13:54,492 - octoprint.plugin.core - DEBUG - Enabled plugin errortracking: Error Tracking
+2021-12-29 15:13:54,502 - octoprint.plugin.core - DEBUG - Enabled plugin eventmanager: Event Manager
+2021-12-29 15:13:54,539 - octoprint.plugin.core - DEBUG - Enabled plugin gcodeviewer: GCode Viewer
+2021-12-29 15:13:54,563 - octoprint.plugin.core - DEBUG - Enabled plugin logging: Logging
+2021-12-29 15:13:54,593 - octoprint.plugin.core - DEBUG - Enabled plugin pluginmanager: Plugin Manager
+2021-12-29 15:13:54,623 - octoprint.plugin.core - DEBUG - Enabled plugin softwareupdate: Software Update
+2021-12-29 15:13:54,655 - octoprint.plugin.core - DEBUG - Enabled plugin tracking: Anonymous Usage Tracking
+2021-12-29 15:13:54,685 - octoprint.plugin.core - DEBUG - Enabled plugin virtual_printer: Virtual Printer
+2021-12-29 15:13:54,698 - octoprint.plugin.core - DEBUG - Enabled plugin firmware_check: Firmware Check (2021.10.11)
+2021-12-29 15:13:54,723 - octoprint.plugin.core - DEBUG - Enabled plugin file_check: File Check (2021.2.23)
+2021-12-29 15:13:54,725 - octoprint.plugin.core - INFO - Found 17 plugin(s) providing 17 mixin implementations, 34 hook handlers
+2021-12-29 15:13:55,219 - octoprint.server.heartbeat - INFO - Starting server heartbeat, 900.0s interval
+2021-12-29 15:13:55,266 - octoprint.server - DEBUG - Starting intermediary server on http://127.0.0.1:5000
+2021-12-29 15:13:55,281 - octoprint.server - INFO - Intermediary server started
+2021-12-29 15:13:55,376 - octoprint.filemanager.storage - INFO - Initializing the file metadata for /home/thaison/.octoprint/uploads...
+2021-12-29 15:13:55,385 - octoprint.filemanager.storage.timings - DEBUG - Entering octoprint.filemanager.storage._list_folder...
+2021-12-29 15:13:55,403 - octoprint.filemanager.storage.timings - DEBUG - octoprint.filemanager.storage._list_folder(<octoprint.filemanager.storage.LocalFileStorage object at 0xb79bd388>,'/home/thaison/.octoprint/uploads',) took 13.49ms
+2021-12-29 15:13:55,404 - octoprint.filemanager.storage - INFO - ... file metadata for /home/thaison/.octoprint/uploads initialized successfully.
+2021-12-29 15:13:55,426 - octoprint.events - DEBUG - Subscribed listener <function Server.run.<locals>.on_settings_update at 0xb79b8bf8> for event SettingsUpdated
+2021-12-29 15:13:55,434 - octoprint.server - INFO - Added new permission from plugin action_command_notification: PLUGIN_ACTION_COMMAND_NOTIFICATION_SHOW (needs: "Need(method='role', value='plugin_action_command_notification_show')")
+2021-12-29 15:13:55,435 - octoprint.server - INFO - Added new permission from plugin action_command_notification: PLUGIN_ACTION_COMMAND_NOTIFICATION_CLEAR (needs: "Need(method='role', value='plugin_action_command_notification_clear')")
+2021-12-29 15:13:55,437 - octoprint.server - INFO - Added new permission from plugin action_command_prompt: PLUGIN_ACTION_COMMAND_PROMPT_INTERACT (needs: "Need(method='role', value='plugin_action_command_prompt_interact')")
+2021-12-29 15:13:55,439 - octoprint.server - INFO - Added new permission from plugin announcements: PLUGIN_ANNOUNCEMENTS_READ (needs: "Need(method='role', value='plugin_announcements_read')")
+2021-12-29 15:13:55,489 - octoprint.server - INFO - Added new permission from plugin announcements: PLUGIN_ANNOUNCEMENTS_MANAGE (needs: "Need(method='role', value='plugin_announcements_manage'), Need(method='role', value='plugin_announcements_read')")
+2021-12-29 15:13:55,496 - octoprint.server - INFO - Added new permission from plugin appkeys: PLUGIN_APPKEYS_ADMIN (needs: "Need(method='role', value='plugin_appkeys_admin')")
+2021-12-29 15:13:55,498 - octoprint.server - INFO - Added new permission from plugin backup: PLUGIN_BACKUP_ACCESS (needs: "Need(method='role', value='plugin_backup_access')")
+2021-12-29 15:13:55,499 - octoprint.server - INFO - Added new permission from plugin firmware_check: PLUGIN_FIRMWARE_CHECK_DISPLAY (needs: "Need(method='role', value='plugin_firmware_check_display')")
+2021-12-29 15:13:55,501 - octoprint.server - INFO - Added new permission from plugin logging: PLUGIN_LOGGING_MANAGE (needs: "Need(method='role', value='plugin_logging_manage')")
+2021-12-29 15:13:55,503 - octoprint.server - INFO - Added new permission from plugin pluginmanager: PLUGIN_PLUGINMANAGER_MANAGE (needs: "Need(method='role', value='plugin_pluginmanager_manage')")
+2021-12-29 15:13:55,505 - octoprint.server - INFO - Added new permission from plugin pluginmanager: PLUGIN_PLUGINMANAGER_INSTALL (needs: "Need(method='role', value='plugin_pluginmanager_install'), Need(method='role', value='plugin_pluginmanager_manage')")
+2021-12-29 15:13:55,507 - octoprint.server - INFO - Added new permission from plugin softwareupdate: PLUGIN_SOFTWAREUPDATE_CHECK (needs: "Need(method='role', value='plugin_softwareupdate_check')")
+2021-12-29 15:13:55,509 - octoprint.server - INFO - Added new permission from plugin softwareupdate: PLUGIN_SOFTWAREUPDATE_UPDATE (needs: "Need(method='role', value='plugin_softwareupdate_update')")
+2021-12-29 15:13:55,510 - octoprint.server - INFO - Added new permission from plugin softwareupdate: PLUGIN_SOFTWAREUPDATE_CONFIGURE (needs: "Need(method='role', value='plugin_softwareupdate_configure')")
+2021-12-29 15:13:55,633 - octoprint.events - DEBUG - Subscribed listener <bound method Printer._on_event_MetadataAnalysisFinished of <octoprint.printer.standard.Printer object at 0xb79bdf28>> for event MetadataAnalysisFinished
+2021-12-29 15:13:55,634 - octoprint.events - DEBUG - Subscribed listener <bound method Printer._on_event_MetadataStatisticsUpdated of <octoprint.printer.standard.Printer object at 0xb79bdf28>> for event MetadataStatisticsUpdated
+2021-12-29 15:13:55,639 - octoprint - DEBUG - Registered event backup_created of plugin backup as Events.PLUGIN_BACKUP_BACKUP_CREATED = "plugin_backup_backup_created"
+2021-12-29 15:13:55,640 - octoprint - DEBUG - Registered event warning of plugin firmware_check as Events.PLUGIN_FIRMWARE_CHECK_WARNING = "plugin_firmware_check_warning"
+2021-12-29 15:13:55,641 - octoprint - DEBUG - Registered event install_plugin of plugin pluginmanager as Events.PLUGIN_PLUGINMANAGER_INSTALL_PLUGIN = "plugin_pluginmanager_install_plugin"
+2021-12-29 15:13:55,642 - octoprint - DEBUG - Registered event uninstall_plugin of plugin pluginmanager as Events.PLUGIN_PLUGINMANAGER_UNINSTALL_PLUGIN = "plugin_pluginmanager_uninstall_plugin"
+2021-12-29 15:13:55,643 - octoprint - DEBUG - Registered event enable_plugin of plugin pluginmanager as Events.PLUGIN_PLUGINMANAGER_ENABLE_PLUGIN = "plugin_pluginmanager_enable_plugin"
+2021-12-29 15:13:55,644 - octoprint - DEBUG - Registered event disable_plugin of plugin pluginmanager as Events.PLUGIN_PLUGINMANAGER_DISABLE_PLUGIN = "plugin_pluginmanager_disable_plugin"
+2021-12-29 15:13:55,645 - octoprint - DEBUG - Registered event update_succeeded of plugin softwareupdate as Events.PLUGIN_SOFTWAREUPDATE_UPDATE_SUCCEEDED = "plugin_softwareupdate_update_succeeded"
+2021-12-29 15:13:55,646 - octoprint - DEBUG - Registered event update_failed of plugin softwareupdate as Events.PLUGIN_SOFTWAREUPDATE_UPDATE_FAILED = "plugin_softwareupdate_update_failed"
+2021-12-29 15:13:55,762 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin action_command_notification
+2021-12-29 15:13:55,787 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin action_command_prompt
+2021-12-29 15:13:55,852 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin announcements
+2021-12-29 15:13:55,868 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin appkeys
+2021-12-29 15:13:55,888 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin backup
+2021-12-29 15:13:55,907 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin corewizard
+2021-12-29 15:13:55,941 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin discovery
+2021-12-29 15:13:55,966 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin errortracking
+2021-12-29 15:13:55,985 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin eventmanager
+2021-12-29 15:13:56,008 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin gcodeviewer
+2021-12-29 15:13:56,027 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin logging
+2021-12-29 15:13:59,061 - octoprint.util.pip - INFO - Using "/usr/local/bin/python3.8 -m pip" as command to invoke pip
+2021-12-29 15:14:02,072 - octoprint.util.pip - INFO - Version of pip is 20.3.4
+2021-12-29 15:14:02,086 - octoprint.util.pip - INFO - pip installs to /usr/local/lib/python3.8/site-packages (writable -> no), --user flag needed -> yes, virtual env -> no
+2021-12-29 15:14:02,089 - octoprint.util.pip - INFO - ==> pip ok -> yes
+2021-12-29 15:14:02,091 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin pluginmanager
+2021-12-29 15:14:02,283 - octoprint.plugins.softwareupdate - INFO - Loaded version cache from disk
+2021-12-29 15:14:02,297 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin softwareupdate
+2021-12-29 15:14:02,334 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin tracking
+2021-12-29 15:14:02,415 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin virtual_printer
+2021-12-29 15:14:02,436 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin firmware_check
+2021-12-29 15:14:02,452 - octoprint.plugin.core - DEBUG - Initialized plugin mixin implementation for plugin file_check
+2021-12-29 15:14:02,453 - octoprint.plugin.core - INFO - Initialized 17 plugin implementation(s)
+2021-12-29 15:14:02,501 - octoprint.plugin.core - INFO - 17 plugin(s) registered with the system:
+|  Action Command Notification Support (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/action_command_notification
+|  Action Command Prompt Support (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/action_command_prompt
+|  Announcement Plugin (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/announcements
+|  Anonymous Usage Tracking (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/tracking
+|  Application Keys Plugin (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/appkeys
+|  Backup & Restore (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/backup
+|  Core Wizard (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/corewizard
+|  Discovery (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/discovery
+|  Error Tracking (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/errortracking
+|  Event Manager (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/eventmanager
+|  File Check (2021.2.23) (bundled) = /usr/local/lib/python3.8/site-packages/octoprint_file_check
+|  Firmware Check (2021.10.11) (bundled) = /usr/local/lib/python3.8/site-packages/octoprint_firmware_check
+|  GCode Viewer (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/gcodeviewer
+|  Logging (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/logging
+|  Plugin Manager (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/pluginmanager
+|  Software Update (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/softwareupdate
+|  Virtual Printer (bundled) = /usr/local/lib/python3.8/site-packages/octoprint/plugins/virtual_printer
+Prefix legend: ! = disabled, # = blacklisted, * = incompatible
+2021-12-29 15:14:02,568 - octoprint.environment - ERROR - Error while detecting hardware environment
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/octoprint/environment.py", line 115, in _detect_hardware
+    cpu_freq = psutil.cpu_freq()
+AttributeError: module 'psutil' has no attribute 'cpu_freq'
+2021-12-29 15:14:02,609 - octoprint.environment - INFO - Detected environment is Python 3.8.12 under Unmapped (openbsd7). Details:
+|  hardware:
+|    cores: unknown
+|    freq: unknown
+|    ram: unknown
+|  os:
+|    bits: 32
+|    id: unmapped
+|    platform: openbsd7
+|  python:
+|    pip: 20.3.4
+|    version: 3.8.12
+2021-12-29 15:14:02,654 - octoprint.server - DEBUG - Deleting /home/thaison/.octoprint/generated/webassets...
+2021-12-29 15:14:02,668 - octoprint.server - DEBUG - Creating /home/thaison/.octoprint/generated/webassets...
+2021-12-29 15:14:02,681 - octoprint.server - INFO - Reset webasset folder /home/thaison/.octoprint/generated/webassets...
+2021-12-29 15:14:02,692 - octoprint.server - DEBUG - Deleting /home/thaison/.octoprint/generated/.webassets-cache...
+2021-12-29 15:14:02,711 - octoprint.server - DEBUG - Creating /home/thaison/.octoprint/generated/.webassets-cache...
+2021-12-29 15:14:02,723 - octoprint.server - INFO - Reset webasset folder /home/thaison/.octoprint/generated/.webassets-cache...
+2021-12-29 15:14:02,934 - octoprint.server - DEBUG - Registered API of plugin announcements under URL prefix /plugin/announcements
+2021-12-29 15:14:02,963 - octoprint.server - DEBUG - Registered API of plugin appkeys under URL prefix /plugin/appkeys
+2021-12-29 15:14:02,994 - octoprint.server - DEBUG - Registered API of plugin backup under URL prefix /plugin/backup
+2021-12-29 15:14:03,016 - octoprint.server - DEBUG - Registered API of plugin corewizard under URL prefix /plugin/corewizard
+2021-12-29 15:14:03,038 - octoprint.server - DEBUG - Registered API of plugin discovery under URL prefix /plugin/discovery
+2021-12-29 15:14:03,068 - octoprint.server - DEBUG - Registered API of plugin logging under URL prefix /plugin/logging
+2021-12-29 15:14:03,102 - octoprint.server - DEBUG - Registered API of plugin pluginmanager under URL prefix /plugin/pluginmanager
+2021-12-29 15:14:03,130 - octoprint.server - DEBUG - Registered API of plugin softwareupdate under URL prefix /plugin/softwareupdate
+2021-12-29 15:14:03,148 - octoprint.server - DEBUG - Registered assets of plugin action_command_notification under URL prefix /plugin/action_command_notification
+2021-12-29 15:14:03,167 - octoprint.server - DEBUG - Registered assets of plugin action_command_prompt under URL prefix /plugin/action_command_prompt
+2021-12-29 15:14:03,184 - octoprint.server - DEBUG - Registered assets of plugin errortracking under URL prefix /plugin/errortracking
+2021-12-29 15:14:03,201 - octoprint.server - DEBUG - Registered assets of plugin eventmanager under URL prefix /plugin/eventmanager
+2021-12-29 15:14:03,218 - octoprint.server - DEBUG - Registered assets of plugin file_check under URL prefix /plugin/file_check
+2021-12-29 15:14:03,235 - octoprint.server - DEBUG - Registered assets of plugin firmware_check under URL prefix /plugin/firmware_check
+2021-12-29 15:14:03,253 - octoprint.server - DEBUG - Registered assets of plugin gcodeviewer under URL prefix /plugin/gcodeviewer
+2021-12-29 15:14:03,270 - octoprint.server - DEBUG - Registered assets of plugin tracking under URL prefix /plugin/tracking
+2021-12-29 15:14:03,467 - octoprint.server - DEBUG - Adding additional route /plugin/backup/download/(.*) handled by handler <class 'octoprint.server.util.tornado.LargeResponseHandler'> and with additional arguments {'path': '/home/thaison/.octoprint/data/backup', 'as_attachment': True, 'path_validation': <function path_validation_factory.<locals>.f at 0xcd8984f0>, 'access_validation': <function access_validation_factory.<locals>.f at 0xcd898538>}
+2021-12-29 15:14:03,528 - octoprint.server - DEBUG - Adding maximum body size of 1073741824B for POST requests to /plugin/backup/restore)
+2021-12-29 15:14:03,529 - octoprint.server - DEBUG - Adding maximum body size of 52428800B for POST requests to /plugin/pluginmanager/upload_file)
+2021-12-29 15:14:03,530 - octoprint.server - INFO - Shutting down intermediary server...
+2021-12-29 15:14:03,952 - octoprint.server - INFO - Intermediary server shut down
+2021-12-29 15:14:03,968 - octoprint.events - INFO - Processing startup event, this is our first event
+2021-12-29 15:14:03,969 - octoprint.events - INFO - Adding 0 events to queue that were held back before startup event
+2021-12-29 15:14:03,976 - octoprint.events.fire - DEBUG - Firing event: Startup (Payload: None)
+2021-12-29 15:14:03,980 - octoprint.filemanager - INFO - Adding backlog items from all storage types to analysis queue...
+2021-12-29 15:14:03,997 - octoprint.plugin - DEBUG - Calling on_event on action_command_notification
+2021-12-29 15:14:04,020 - octoprint.plugin - DEBUG - Calling on_event on action_command_prompt
+2021-12-29 15:14:04,039 - octoprint.plugin - DEBUG - Calling on_event on announcements
+2021-12-29 15:14:04,053 - octoprint.server.util.watchdog - INFO - Running initial scan on watched folder...
+2021-12-29 15:14:04,070 - octoprint.plugin - DEBUG - Calling on_event on file_check
+2021-12-29 15:14:04,085 - octoprint.plugin - DEBUG - Calling on_event on firmware_check
+2021-12-29 15:14:04,092 - octoprint.filemanager - INFO - Added 0 items from storage type "local" to analysis queue
+2021-12-29 15:14:04,104 - octoprint.plugin - DEBUG - Calling on_event on pluginmanager
+2021-12-29 15:14:04,122 - octoprint.plugin - DEBUG - Calling on_event on softwareupdate
+2021-12-29 15:14:04,120 - octoprint.server.util.watchdog - INFO - ... initial scan done.
+2021-12-29 15:14:04,142 - octoprint.plugin - DEBUG - Calling on_event on tracking
+2021-12-29 15:14:04,164 - octoprint.plugin - DEBUG - Calling on_startup on announcements
+2021-12-29 15:14:04,165 - octoprint.plugin - DEBUG - Calling on_startup on backup
+2021-12-29 15:14:04,166 - octoprint.plugin - DEBUG - Calling on_startup on discovery
+2021-12-29 15:14:05,059 - octoprint.plugins.discovery - INFO - Registered 'OctoPrint instance on ibook.my.domain._http._tcp.local.' for _http._tcp.local.
+2021-12-29 15:14:05,959 - octoprint.plugins.discovery - INFO - Registered 'OctoPrint instance on ibook.my.domain._octoprint._tcp.local.' for _octoprint._tcp.local.
+2021-12-29 15:14:05,982 - octoprint.plugin - DEBUG - Calling on_startup on pluginmanager
+2021-12-29 15:14:05,984 - octoprint.plugin - DEBUG - Calling on_startup on softwareupdate
+2021-12-29 15:14:06,029 - octoprint.plugin - DEBUG - Calling on_startup on tracking
+2021-12-29 15:14:06,061 - octoprint.server - INFO - Listening on http://127.0.0.1:5000
+2021-12-29 15:14:06,075 - octoprint.plugin - DEBUG - Calling on_after_startup on announcements
+2021-12-29 15:14:06,115 - octoprint.plugin - DEBUG - Calling on_after_startup on backup
+2021-12-29 15:14:06,173 - octoprint.plugin - DEBUG - Calling on_after_startup on discovery
+2021-12-29 15:14:06,222 - octoprint.plugin - DEBUG - Calling on_after_startup on pluginmanager
+2021-12-29 15:14:06,268 - octoprint.plugin - DEBUG - Calling on_after_startup on softwareupdate
+2021-12-29 15:14:06,712 - octoprint.plugins.pluginmanager - INFO - Loaded plugin repository data from disk, was still valid
+2021-12-29 15:14:13,753 - octoprint.util.pip - INFO - Using "/usr/local/bin/python3.8 -m pip" as command to invoke pip
+2021-12-29 15:14:13,763 - octoprint.util.pip - INFO - pip installs to /usr/local/lib/python3.8/site-packages (writable -> no), --user flag needed -> yes, virtual env -> no
+2021-12-29 15:14:13,774 - octoprint.util.pip - INFO - ==> pip ok -> yes
+2021-12-29 15:14:13,883 - octoprint.plugins.softwareupdate - INFO - Minimum free storage across all update relevant locations is 3.4GB. That is considered sufficient for updating.
+2021-12-29 15:14:13,886 - octoprint.plugins.softwareupdate - INFO - Fetching check overlays from https://plugins.octoprint.org/update_check_overlay.json
+2021-12-29 15:14:14,512 - octoprint.plugin - DEBUG - Calling on_after_startup on tracking
+2021-12-29 15:14:16,045 - octoprint.plugins.pluginmanager - INFO - Loaded notice data from disk, was still valid

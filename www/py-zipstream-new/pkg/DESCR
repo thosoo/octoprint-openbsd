@@ -1,0 +1,1 @@
+zipstream.py is a zip archive generator based on python 3.3's zipfile.py. It was created to generate a zipfile generator for streaming.

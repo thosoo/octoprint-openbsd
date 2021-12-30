@@ -1,0 +1,21 @@
+@comment $OpenBSD: PLIST,v$
+lib/python${MODPY_VERSION}/site-packages/OctoPrint_FileCheck-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/
+lib/python${MODPY_VERSION}/site-packages/OctoPrint_FileCheck-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/PKG-INFO
+lib/python${MODPY_VERSION}/site-packages/OctoPrint_FileCheck-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/SOURCES.txt
+lib/python${MODPY_VERSION}/site-packages/OctoPrint_FileCheck-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/dependency_links.txt
+lib/python${MODPY_VERSION}/site-packages/OctoPrint_FileCheck-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/entry_points.txt
+lib/python${MODPY_VERSION}/site-packages/OctoPrint_FileCheck-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/not-zip-safe
+lib/python${MODPY_VERSION}/site-packages/OctoPrint_FileCheck-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/requires.txt
+lib/python${MODPY_VERSION}/site-packages/OctoPrint_FileCheck-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/top_level.txt
+lib/python${MODPY_VERSION}/site-packages/octoprint_file_check/
+lib/python${MODPY_VERSION}/site-packages/octoprint_file_check/__init__.py
+${MODPY_COMMENT}lib/python${MODPY_VERSION}/site-packages/octoprint_file_check/${MODPY_PYCACHE}/
+lib/python${MODPY_VERSION}/site-packages/octoprint_file_check/${MODPY_PYCACHE}__init__.${MODPY_PYC_MAGIC_TAG}pyc
+lib/python${MODPY_VERSION}/site-packages/octoprint_file_check/static/
+lib/python${MODPY_VERSION}/site-packages/octoprint_file_check/static/js/
+lib/python${MODPY_VERSION}/site-packages/octoprint_file_check/static/js/file_check.js
+lib/python${MODPY_VERSION}/site-packages/octoprint_file_check/translations/
+lib/python${MODPY_VERSION}/site-packages/octoprint_file_check/translations/de/
+lib/python${MODPY_VERSION}/site-packages/octoprint_file_check/translations/de/LC_MESSAGES/
+lib/python${MODPY_VERSION}/site-packages/octoprint_file_check/translations/de/LC_MESSAGES/messages.mo
+lib/python${MODPY_VERSION}/site-packages/octoprint_file_check/translations/de/LC_MESSAGES/messages.po

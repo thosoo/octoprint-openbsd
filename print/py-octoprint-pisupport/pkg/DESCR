@@ -1,0 +1,1 @@
+The Pi Support plugin provides additional information about your Pi in the UI and also alerts you about undervoltage or overheating issues observed on your Pi or if your Pi is unsupported. If you are running OctoPi, the Pi Support plugin will also provide additional information about that.
